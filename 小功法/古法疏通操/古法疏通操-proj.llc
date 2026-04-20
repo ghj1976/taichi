@@ -1,0 +1,17 @@
+{
+  version: 2,
+  mediaFileName: '古法疏通操.mp4',
+  cutSegments: [
+    {
+      start: 6.280281996183206,
+      name: '',
+      selected: false,
+    },
+    {
+      start: 0,
+      end: 14.918982125954198,
+      name: '',
+      selected: true,
+    },
+  ],
+}
